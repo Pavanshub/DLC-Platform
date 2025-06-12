@@ -292,5 +292,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-**Built with ❤️ for digital inclusion and accessibility**#   D L C - P l a t f o r m  
- 
+**Built with ❤️ for digital inclusion and accessibility**
