@@ -67,7 +67,7 @@ digital-literacy-course/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Pavanshub/DLC-Platform.git
    cd digital-literacy-course
    ```
 
@@ -258,9 +258,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Include browser and device information
 
 ### Contact Information
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **Website**: [project-website.com]
+- **Project Maintainer**: Pavan Krishna D
+- **Email**: krishna.dirishala05@gmail.com
+- **Website**: https://thepavankrishna.netlify.app/
 
 ## 🔄 Version History
 
